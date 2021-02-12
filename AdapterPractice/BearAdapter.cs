@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * 
+ * Name: Logan Brown
+ * File: BearAdapter.cs
+ * Date: 2/12/2021
+ * Description: a concrete class that converts the single function of IToyBear to Maul() of real bear.
+ * 
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 

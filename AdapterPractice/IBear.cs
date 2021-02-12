@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * 
+ * Name: Logan Brown
+ * File: IBear.cs
+ * Date: 2/12/2021
+ * Description: Creates an interface for Real Bears, and implements it.
+ * 
+ */
+using System;
 using System.Collections.Generic;
 using System.Text;
 
